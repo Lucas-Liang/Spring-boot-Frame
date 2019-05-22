@@ -1,6 +1,6 @@
-package com.example.spring_boot_mybatis.service;
+package com.example.springbootmybatis.service;
 
-import com.example.spring_boot_mybatis.bean.City;
+import com.example.springbootmybatis.bean.City;
 
 import java.util.List;
 

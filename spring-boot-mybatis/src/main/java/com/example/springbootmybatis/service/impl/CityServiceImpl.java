@@ -1,15 +1,13 @@
-package com.example.spring_boot_mybatis.service.impl;
+package com.example.springbootmybatis.service.impl;
 
-import com.example.spring_boot_mybatis.bean.City;
-import com.example.spring_boot_mybatis.mapper.CityMapper;
-import com.example.spring_boot_mybatis.service.CityService;
+import com.example.springbootmybatis.bean.City;
+import com.example.springbootmybatis.mapper.CityMapper;
+import com.example.springbootmybatis.service.CityService;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Propagation;
-import org.springframework.transaction.annotation.Transactional;
 import org.thymeleaf.util.StringUtils;
 
 import com.github.pagehelper.PageHelper;

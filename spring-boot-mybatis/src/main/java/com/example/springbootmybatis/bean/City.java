@@ -1,4 +1,4 @@
-package com.example.spring_boot_mybatis.bean;
+package com.example.springbootmybatis.bean;
 
 import javax.persistence.*;
 

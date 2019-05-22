@@ -1,11 +1,10 @@
-package com.example.spring_boot_mybatis.controller;
+package com.example.springbootmybatis.controller;
 
-import com.example.spring_boot_mybatis.bean.City;
-import com.example.spring_boot_mybatis.service.CityService;
+import com.example.springbootmybatis.bean.City;
+import com.example.springbootmybatis.service.CityService;
 import com.example.springbootrestful.utils.JSONResult;
 import org.n3r.idworker.Sid;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;

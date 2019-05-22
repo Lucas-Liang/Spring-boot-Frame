@@ -1,4 +1,4 @@
-package com.example.spring_boot_mybatis;
+package com.example.springbootmybatis;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

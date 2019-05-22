@@ -22,7 +22,7 @@
  * THE SOFTWARE.
  */
 
-package com.example.spring_boot_mybatis.utils;
+package com.example.springbootmybatis.utils;
 
 import tk.mybatis.mapper.common.Mapper;
 import tk.mybatis.mapper.common.MySqlMapper;

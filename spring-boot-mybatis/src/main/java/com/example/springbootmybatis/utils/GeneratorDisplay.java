@@ -1,6 +1,5 @@
-package com.example.spring_boot_mybatis.utils;
+package com.example.springbootmybatis.utils;
 
-import org.hibernate.validator.internal.util.privilegedactions.GetResource;
 import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;
 import org.mybatis.generator.config.xml.ConfigurationParser;
