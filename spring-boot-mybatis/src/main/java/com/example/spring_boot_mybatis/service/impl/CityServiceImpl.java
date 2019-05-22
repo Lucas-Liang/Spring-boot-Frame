@@ -39,11 +39,14 @@ public class CityServiceImpl implements CityService {
 
     @Override
     public void updateCity(City city) {
-        cityMapper.updateByPrimaryKey(city);
+        //只修改涉及到的信息
+        cityMapper.updateByPrimaryKeySelective(city);
+//        全部修改
+//        cityMapper.updateByPrimaryKey(city);
     }
 
     @Override
-    public void deleteCity(String cityId) {
+    public void deleteCity(int cityId) {
         cityMapper.deleteByPrimaryKey(cityId);
     }
 
@@ -60,7 +63,19 @@ public class CityServiceImpl implements CityService {
 
     @Override
     public List<City> queryCityListPaged(City city, Integer page, Integer pageSize) {
-        return null;
+// 开始分页
+        PageHelper.startPage(page, pageSize);
+
+        Example example = new Example(City.class);
+        Example.Criteria criteria = example.createCriteria();
+
+        if (!StringUtils.isEmptyOrWhitespace(city.getName())) {
+            criteria.andLike("nickname", "%" + city.getName() + "%");
+        }
+        example.orderBy("registTime").desc();
+        List<City> userList = cityMapper.selectByExample(example);
+
+        return userList;
     }
 
     @Override

@@ -17,7 +17,7 @@ public interface CityService {
 
     public void updateCity(City city);
 
-    public void deleteCity(String cityId);
+    public void deleteCity(int cityId);
 
     public City queryCityById(String cityId);
 
