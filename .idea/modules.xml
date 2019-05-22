@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring-boot-Frame.iml" filepath="$PROJECT_DIR$/Spring-boot-Frame.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-core/spring-boot-core.iml" filepath="$PROJECT_DIR$/spring-boot-core/spring-boot-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-druid/spring-boot-druid.iml" filepath="$PROJECT_DIR$/spring-boot-druid/spring-boot-druid.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-netty/spring-boot-netty.iml" filepath="$PROJECT_DIR$/spring-boot-netty/spring-boot-netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" filepath="$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" />
