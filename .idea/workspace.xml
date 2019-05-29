@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44e14584-554f-4dac-8892-7ccd87a3a054" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/conf/ClusterDataSourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/conf/DruidConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/conf/MasterDataSourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/service/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/service/cluster/TStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/service/cluster/impl/TStudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/service/master/TUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/service/master/impl/TUserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/utils/GeneratorDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/utils/MyMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-druids/src/main/resources/druids.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-druid/src/main/java/com/example/springbootdruid/conf/DruidConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-druid/src/main/java/com/example/springbootdruid/conf/DruidConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/example/springbootmybatis/service/impl/CityServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/example/springbootmybatis/service/impl/CityServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/spring-boot-core/target/" />
@@ -56,13 +39,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/controller/UserController.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="26" column="64" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="308">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -131,7 +111,6 @@
         <option value="$PROJECT_DIR$/spring-boot-netty/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/example/springbootnetty/socket/SocketServerHandler.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/example/springbootmybatis/SpringBootMybatisApplication.java" />
         <option value="$PROJECT_DIR$/spring-boot-core/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-druid/src/main/resources/application.properties" />
@@ -162,8 +141,9 @@
         <option value="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/service/BaseService.java" />
         <option value="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/service/cluster/impl/TStudentServiceImpl.java" />
         <option value="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/service/master/impl/TUserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/controller/StudentController.java" />
         <option value="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" />
       </list>
     </option>
   </component>
@@ -227,65 +207,7 @@
             <path>
               <item name="Spring-boot-Frame" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring-boot-Frame" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-druids" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-boot-Frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-boot-Frame" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-druids" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-boot-Frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-boot-Frame" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-druids" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-boot-Frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-boot-Frame" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-druids" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-boot-Frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-boot-Frame" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-druids" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdruids" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-boot-Frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-boot-Frame" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-druids" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdruids" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-boot-Frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-boot-Frame" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-druids" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdruids" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-boot-Frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-boot-Frame" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-druids" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -514,7 +436,7 @@
       <workItem from="1558073940975" duration="4650000" />
       <workItem from="1558083711553" duration="186000" />
       <workItem from="1558505907250" duration="1057000" />
-      <workItem from="1559092271309" duration="7990000" />
+      <workItem from="1559092271309" duration="8313000" />
     </task>
     <task id="LOCAL-00001" summary="修改pom.xml文件">
       <created>1557299700277</created>
@@ -541,13 +463,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93639000" />
+    <option name="totallyTimeSpent" value="93962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29289544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29289544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -567,7 +489,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.786119" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.7790368" />
       <window_info anchor="bottom" id="Run" order="15" weight="0.3696884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -625,13 +547,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-core/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
@@ -721,13 +636,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -958,23 +866,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/controller/StudentController.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="28" column="73" lean-forward="true" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="73" />
+        <state relative-caret-position="257">
+          <caret line="28" column="58" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-druids/src/main/java/com/example/springbootdruids/controller/StudentController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="26" column="64" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+        <state relative-caret-position="34">
+          <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-restful/src/main/java/com/example/springbootrestful/utils/JSONResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="35" column="69" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="69" />
+          <folding>
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
